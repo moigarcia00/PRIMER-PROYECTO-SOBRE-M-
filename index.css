@@ -43,3 +43,16 @@ h3           {
                 justify-content: center;
                 gap: 40px;
             }
+p           {
+                font-size: 30px;
+				text-align: center; 
+            }
+.recorrido      {
+                    display: flex; 
+				    width: 90%;
+                    height: 500px; 
+                    margin: 50px auto; 
+                    padding: 15px; 
+                    text-align: center;
+                    justify-content: center;
+                    }
